@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GarryRawat</h1>
+<h1 align="center">Hi 👋, I'm Garry</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img src="http://i.gifer.com/81RA.gif" alt="coding" width="400" align="Center">
 
